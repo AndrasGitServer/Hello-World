@@ -1,7 +1,12 @@
 
-Date:	Oct 7, 2019
+Date:	Oct 7, 2019.
 
 Filename: helloWorld.txt
+
+Date:	Oct 24, 2019. Thursday.
+
+	Learning about Git & GitHub
+
 
 
 
